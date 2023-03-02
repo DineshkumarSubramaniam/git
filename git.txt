@@ -1,4 +1,3 @@
-I AM INSIDE GIT.TXT. Now I am learning the git commands.
 
+<IPPA NAAN EDIT PANRATHU ELLAME GITHUB LA THAAN>
 
-< Ithu edit panrathu ellam local la >
