@@ -1,0 +1,4 @@
+operators are
+print(5+10)
+print('hai')
+print('dinesh')
